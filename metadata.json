@@ -1,0 +1,6 @@
+{
+  "name": "CBT ANBK SMP Negeri 1 Wanaraya",
+  "description": "Aplikasi Ujian Online CBT ANBK SMP Negeri 1 Wanaraya Tahun Ajaran 2026/2027 materi Matematika Fase D Rasio dengan integrasi Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
